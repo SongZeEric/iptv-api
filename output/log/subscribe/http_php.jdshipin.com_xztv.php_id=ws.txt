@@ -1,10 +1,10 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:591076813
+#EXT-X-MEDIA-SEQUENCE:591077272
 #EXT-X-TARGETDURATION:3
 #EXTINF:3.000,
-h701F9MpxzPDyE-591076813.ts?ctyun_app=live&ctyun_stream=h701F9MpxzPDyE&ctyun_rate=2564.000
+h701F9MpxzPDyE-591077272.ts?ctyun_app=live&ctyun_stream=h701F9MpxzPDyE&ctyun_rate=2564.000
 #EXTINF:3.000,
-h701F9MpxzPDyE-591076814.ts?ctyun_app=live&ctyun_stream=h701F9MpxzPDyE&ctyun_rate=2564.000
+h701F9MpxzPDyE-591077273.ts?ctyun_app=live&ctyun_stream=h701F9MpxzPDyE&ctyun_rate=2564.000
 #EXTINF:3.000,
-h701F9MpxzPDyE-591076815.ts?ctyun_app=live&ctyun_stream=h701F9MpxzPDyE&ctyun_rate=2564.000
+h701F9MpxzPDyE-591077274.ts?ctyun_app=live&ctyun_stream=h701F9MpxzPDyE&ctyun_rate=2564.000

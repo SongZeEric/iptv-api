@@ -1,10 +1,10 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:590996503
+#EXT-X-MEDIA-SEQUENCE:590996848
 #EXT-X-TARGETDURATION:5
 #EXTINF:4.000,
-cp2-590996503.ts?ctyun_app=jishi&ctyun_stream=cp2&ctyun_rate=0.000
+cp2-590996848.ts?ctyun_app=jishi&ctyun_stream=cp2&ctyun_rate=0.000
 #EXTINF:4.000,
-cp2-590996504.ts?ctyun_app=jishi&ctyun_stream=cp2&ctyun_rate=0.000
+cp2-590996849.ts?ctyun_app=jishi&ctyun_stream=cp2&ctyun_rate=0.000
 #EXTINF:4.000,
-cp2-590996505.ts?ctyun_app=jishi&ctyun_stream=cp2&ctyun_rate=0.000
+cp2-590996850.ts?ctyun_app=jishi&ctyun_stream=cp2&ctyun_rate=0.000
