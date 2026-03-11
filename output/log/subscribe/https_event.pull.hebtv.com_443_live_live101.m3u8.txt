@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:590998477
+#EXT-X-TARGETDURATION:5
+#EXTINF:4.000,
+live101-590998477.ts?ctyun_app=live&ctyun_stream=live101&ctyun_rate=0.000
+#EXTINF:3.640,
+live101-590998478.ts?ctyun_app=live&ctyun_stream=live101&ctyun_rate=0.000
+#EXTINF:4.000,
+live101-590998479.ts?ctyun_app=live&ctyun_stream=live101&ctyun_rate=0.000

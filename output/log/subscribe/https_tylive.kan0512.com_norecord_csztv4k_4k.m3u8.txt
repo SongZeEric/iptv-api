@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:591076880
+#EXT-X-TARGETDURATION:3
+#EXTINF:3.000,
+csztv4k_4k-591076880.ts?ctyun_app=norecord&ctyun_stream=csztv4k_4k&ctyun_rate=7999.000
+#EXTINF:3.000,
+csztv4k_4k-591076881.ts?ctyun_app=norecord&ctyun_stream=csztv4k_4k&ctyun_rate=7999.000
+#EXTINF:3.000,
+csztv4k_4k-591076882.ts?ctyun_app=norecord&ctyun_stream=csztv4k_4k&ctyun_rate=7999.000
